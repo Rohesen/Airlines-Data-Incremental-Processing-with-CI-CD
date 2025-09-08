@@ -144,7 +144,6 @@ flowchart TD
  ┣ 📂 arm-templates/        # Exported ARM templates for ADF
  ┣ 📂 pipelines/            # YAML pipelines for CI/CD
  ┣ 📂 dataflow-snapshots/   # JSON definitions of ADF Data Flows
- ┣ 📂 docs/                 # Architecture diagrams, project notes
  ┣ 📜 README.md             # Project documentation
 ```
 
